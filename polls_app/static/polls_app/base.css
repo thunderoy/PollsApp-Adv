@@ -1,0 +1,35 @@
+.content-container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+
+footer {
+  right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 1030;
+}
+
+.footer a.p-lr {
+	padding-left: 56px !important;
+	padding-right: 56px !important;
+}
+
+.nav-item {
+	padding-left: 15px;
+}
+
+nav.pd-lr {
+	padding-left: 35px !important;
+	padding-right: 35px !important;
+}
+
+footer div.center-item {
+	height: 100%;
+	align-items: center;
+}
+
+footer.mtc {
+	margin-top: 189px;
+}
